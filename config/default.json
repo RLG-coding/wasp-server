@@ -1,0 +1,13 @@
+{
+  "Development": {
+    "dbConfig": {
+      "host": "todo.fabnum.intradef.gouv.fr",
+      "port": 8443,
+      "dbName": "tasks"
+    },
+    "credit": {
+      "initialLimit": 100,
+      "initialDays": 1
+    }
+  }
+}
